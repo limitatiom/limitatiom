@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @limitatiom
 - 👀 I’m interested in SofewareDeveloping.
-- 🌱 I’m currently learning C++,java and python.
-- 💞️ I’m looking to collaborate on C++ project.
+- 🌱 I’m currently learning C++, java and python, html, css, javascript.
+- 💞️ I’m looking to collaborate on java project.
 - 📫 How to reach me ...
 
 <!---
